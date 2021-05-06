@@ -2,8 +2,8 @@
 Dépot des séances de laboratoire du cours INF2050 - Outils et pratiques de développement logiciel
 
 ## Contenu
-- Première séance : 
-- Deuxième séance : 
+- Première séance : Introduction à Netbeans 
+- Deuxième séance : JSON
 - Troisième séance : 
 - Quatrième séance : 
 - Cinquième séance : 
