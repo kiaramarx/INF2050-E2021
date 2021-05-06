@@ -16,6 +16,9 @@ Dépot des séances de laboratoire du cours INF2050 - Outils et pratiques de dé
 
 ## Liens utiles
 
+- [Guide du Markdown](https://www.markdownguide.org/cheat-sheet/)
+- [Commandes Git](https://git-scm.com/docs)
+
 ## License
 
 Apache 2.0 : Vous êtes libres d'utiliser, modifier et distribuer ce code, tant que vous citez © l'auteur original.
