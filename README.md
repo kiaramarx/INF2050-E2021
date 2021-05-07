@@ -16,6 +16,8 @@ Dépot des séances de laboratoire du cours INF2050 - Outils et pratiques de dé
 
 ## Liens utiles
 
+- [IDE NetBeans](https://netbeans.apache.org/)
+-  [JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [Guide du Markdown](https://www.markdownguide.org/cheat-sheet/)
 - [Commandes Git](https://git-scm.com/docs)
 
