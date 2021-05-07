@@ -30,7 +30,7 @@ public class LectureFichier {
     }
 
     public static void sauvegarderStringDansFichier(String filePath, String content) throws IOException {
-        File f = new File(filePath);
-        FileUtils.writeStringToFile(f, content, "UTF-8");
+        File fichier = new File(filePath);
+        FileUtils.writeStringToFile(fichier, content, "UTF-8");
     }
 }
