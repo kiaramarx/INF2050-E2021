@@ -1,0 +1,43 @@
+[
+	{
+		"id": "1",
+		"titre": "Coder proprement",
+		"auteur": "Robert Martin",
+		"disponible": false,
+		"prix": 39.9,
+		"annee": 2009
+	},
+	{
+		"id": "2",
+		"titre": "Agile Software Development, Principles, Patterns, and Practices",
+		"auteur": "Robert Martin",
+		"disponible": true,
+		"prix": 29.9,
+		"annee": 2002
+	},
+	{
+		"id": "3",
+		"titre": "Systèmes de gestion de bases de données par l’exemple",
+		"auteur": "Robert Godin",
+		"disponible": true,
+		"prix": 110.2,
+		"annee": 2012
+	},
+	{
+		"id": "4",
+		"titre": "Fundamentals of Database Systems",
+		"auteur": "R. Elmasri",
+		"disponible": true,
+		"prix": 19.9,
+		"annee": 2011
+	},
+	{
+		"id": "5",
+		"titre": "Database systems : the Complete Book",
+		"auteur": "H. Garcia-Molina",
+		"disponible": false,
+		"prix": 105.9,
+		"annee": 2009
+	}
+]
+
