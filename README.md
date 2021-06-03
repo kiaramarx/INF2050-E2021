@@ -20,6 +20,7 @@ Dépot des séances de laboratoire du cours INF2050 - Outils et pratiques de dé
 -  [JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [Guide du Markdown](https://www.markdownguide.org/cheat-sheet/)
 - [Commandes Git](https://git-scm.com/docs)
+- [Java Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html)
 
 ## License
 
