@@ -4,7 +4,7 @@ Dépot des séances de laboratoire du cours INF2050 - Outils et pratiques de dé
 ## Contenu
 - Première séance : Introduction à Netbeans/ GitHub 
 - Deuxième séance : JSON
-- Troisième séance : 
+- Troisième séance : Documentation / Style de code
 - Quatrième séance : 
 - Cinquième séance : 
 - Sixième séance : 
